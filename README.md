@@ -4,6 +4,6 @@ ATTENTION CITIZEN! 市民请注意!  This is the Central Intelligentsia of the C
 
 
 
-https://user-images.githubusercontent.com/71678541/137263403-339c8f36-57e9-4d73-83df-de1b58318a3f.mp4
-https://user-images.githubusercontent.com/71678541/137263480-0d06221e-b0c5-43e8-b15a-5b9b57da23e7.mp4
+
+https://user-images.githubusercontent.com/71678541/137263593-e746b12d-aeae-4693-8e87-70873e39b1f2.mp4
 
