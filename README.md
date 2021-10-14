@@ -7,3 +7,7 @@ ATTENTION CITIZEN! 市民请注意!  This is the Central Intelligentsia of the C
 
 https://user-images.githubusercontent.com/71678541/137263593-e746b12d-aeae-4693-8e87-70873e39b1f2.mp4
 
+
+
+https://user-images.githubusercontent.com/71678541/137263679-8dae9f90-38aa-4a61-bc8c-39efa65fb3f1.mp4
+
