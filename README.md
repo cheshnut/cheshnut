@@ -1,6 +1,6 @@
 ### Hello! Welcome to my GitHub profile I am Cheshnut 👋
 
-[![Twitter](https://media.discordapp.net/attachments/876737908990677035/905032833947557938/unknown.png)](https://twitter.com/cheshnutisepic) - ### Check out my twitter!
+[![Twitter](https://media.discordapp.net/attachments/876737908990677035/905032833947557938/unknown.png)](https://twitter.com/cheshnutisepic) Check out my twitter!
 
-[![Website](In Progress!)
+[![Website](https://cdn.discordapp.com/attachments/876737908990677035/905035128345100349/unknown.png)]
 
