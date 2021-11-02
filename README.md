@@ -1,1 +1,1 @@
-### Hello! Welcome to my GitHub profile I am cheshnut 👋
+### Hello! Welcome to my GitHub profile I am Cheshnut 👋
