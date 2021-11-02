@@ -1,6 +1,6 @@
 ### Hello! Welcome to my GitHub profile I am Cheshnut 👋
 
-[![Twitter](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/cheshnutisepic)
+[![Twitter](https://media.discordapp.net/attachments/876737908990677035/905032833947557938/unknown.png)](https://twitter.com/cheshnutisepic)
 
 [![Website](In Progress!)
 
