@@ -32,4 +32,4 @@
 
 ## My Github Stats
 
-[![Cheshnut's github stats](https://github-readme-stats.vercel.app/api?username=cheshnut)
+![Cheshnut's github stats](https://github-readme-stats.vercel.app/api?username=cheshnut)
