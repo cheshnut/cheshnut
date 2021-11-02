@@ -8,7 +8,8 @@
 ## I am currently working on a 2D MMORPG game! 
 
 -💻 I like playing games and making games!
+<br />
 -🌱 Currently learning HTML, CSS and JavaScript!
+<br />
 -🥅 My goal : Making a website, and create an awesome 
-
 <br />
