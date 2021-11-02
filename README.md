@@ -17,7 +17,7 @@
 <br />
 
 ## Connect with me!
-[<img align="left" alt="cheshnut| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://twitter.com/cheshnutisepic)
+[<img align="left" alt="cheshnut| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC5tnMjmVJpiugXXJ3X8OwIw) [<img align="left" alt="cheshnut | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/cheshnutisepic)
 
 ## Tools
 
