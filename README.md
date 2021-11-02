@@ -1,13 +1,13 @@
-### Hello! Welcome to my GitHub profile I am Cheshnut 👋
+### 🙂 Hello! Welcome to my GitHub profile I am Cheshnut 👋
 
-## Check out my Twitter!
+## 🐦 Check out my Twitter! 🐦
 [![Twitter](https://media.discordapp.net/attachments/876737908990677035/905032833947557938/unknown.png)](https://twitter.com/cheshnutisepic)
-## Website Currently in development.
+## 🚧 Website Currently in development 🚧
 
 
 
 
-## I am currently working on a 2D MMORPG game! 
+## ⚔️ I am currently working on a 2D MMORPG game! ⚔️
 
 -💻 I like playing games and making games!
 <br />
@@ -16,12 +16,12 @@
 -🥅 My goal : Making a website, and create an awesome 
 <br />
 
-## Connect with me!
+## Connect with me! 🙂
 [<img align="left" alt="cheshnut| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC5tnMjmVJpiugXXJ3X8OwIw) [<img align="left" alt="cheshnut | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/cheshnutisepic)
 
 <br />
 
-## Tools
+## Tools 🛠️
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -29,7 +29,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 
-## Languages
+## Programming Languages 💻
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -37,5 +37,5 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <br />
 
-## My Github Stats
+## My Github Stats 📈
 ![Cheshnut's github stats](https://github-readme-stats.vercel.app/api?username=cheshnut)
