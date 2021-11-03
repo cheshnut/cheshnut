@@ -13,7 +13,8 @@
 <br />
 -🌱 Currently learning HTML, CSS and JavaScript!
 <br />
--🥅 My goal : Making a website, and create an awesome 
+-🥅 My current goal : Making a website and animations for my player character!
+-💡 What i am currently doing : Making UI and Animations for my player character
 <br />
 
 ## Connect with me! 🙂
