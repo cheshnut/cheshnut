@@ -40,10 +40,14 @@
 <br />
 
 ## My Github Stats 📈
-![Cheshnut's github stats](https://github-readme-stats.vercel.app/api?username=cheshnut)
+![Cheshnut's github stats](https://github-readme-stats.vercel.app/api?username=cheshnut&show_icons=true&line_height=27&count_private=true&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27)
+
+<br />
 
 ## What i am working on
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheshnut&repo=Smart-Parking-Website&show_owner=True&theme=tokyonight)](https://github.com/FiddleFiggleHorn/Website)
+
+<br />
 
 ### Favourite Languages
 <a href="https://github.com/Cheshnut/cheshnut">
