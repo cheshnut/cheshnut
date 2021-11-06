@@ -45,7 +45,7 @@
 <br />
 
 ## What i am working on
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?organization=FiddleFiggleHorn&repo=Smart-Parking-Website&show_owner=True&theme=tokyonight)](https://github.com/FiddleFiggleHorn/Website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FiddleFiggleHorn&repo=Smart-Parking-Website&show_owner=True&theme=tokyonight)](https://github.com/FiddleFiggleHorn/Website)
 
 <br />
 
