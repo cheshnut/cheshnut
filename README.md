@@ -48,3 +48,7 @@
 <a href="https://github.com/Cheshnut/cheshnut">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheshnut&hide=jupyter%20notebook,CSS&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27" />
 </a>
+
+### Verification Bot:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheshnut&repo=VerificationBot.&show_owner=True&theme=tokyonight)](https://github.com/cheshnut/VerificationBot.)
