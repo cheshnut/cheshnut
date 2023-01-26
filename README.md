@@ -1,6 +1,8 @@
-NO SKILLS 🔥<br>
-NO BITCHES🔥<br>
-NO MONEY🔥<br>
-COMPLETE ASS🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥<br>
+<ul>
+  <li>NO SKILLS 🔥</li>
+  <li>NO BITCHES🔥</li>
+  <li>NO MONEY🔥</li>
+  <li>COMPLETE ASS🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥</li>
+ </ul>
 
-![](https://tenor.com/view/jinx-the-cat-jinx-jinx-cat-cat-computer-gif-25786466)
+![](https://media.tenor.com/vZ3KwdqFkxEAAAAd/jinx-the-cat-jinx.gif)
