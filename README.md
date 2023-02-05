@@ -1,3 +1,5 @@
-e30c0ec27d5e2db685d7fe1876944df8bc9e0e5ec7b3f55fd1f00bb2026d9f1e
+932191b3d03b76bd90e6e4770e79281e19a74cbd0eec3b37f9b0f3bdf395dd0d, 160 days has passed 
 
-crack this for 500 bitcoin !!! :REAL: 
+
+
+try decoding it for a secret message :))))
